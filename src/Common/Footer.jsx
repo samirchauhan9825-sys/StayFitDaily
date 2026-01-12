@@ -21,7 +21,9 @@ function Footer() {
                     </div>
                     <div className="features-caption">
                       <h3>Location</h3>
-                      <p>Ahmedabad, Gujarat, India</p>
+                      <p>12 / sukhmal, Nagar Society, Chandlodiya Rd, nr.
+                      dhanjibhai no kuva Nr, opposite GHANSHYAM COMPLEX,
+                      Dhanjibhai Kuva, Chandlodiya, Ahmedabad, Gujarat 382481</p>
                     </div>
                   </div>
                 </div>

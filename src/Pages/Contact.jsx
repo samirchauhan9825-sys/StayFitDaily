@@ -1669,8 +1669,10 @@ function Contact() {
                     <i className="ti-home" />
                   </span>
                   <div className="media-body">
-                    <h3>Ahmedabad, Gujarat</h3>
-                    <p>India</p>
+                    <h3>12 / sukhmal, Nagar Society, Chandlodiya Rd, nr.
+                      dhanjibhai no kuva Nr, opposite GHANSHYAM COMPLEX,
+                      Dhanjibhai Kuva, Chandlodiya</h3>
+                    <p>Ahmedabad, Gujarat 382481</p>
                   </div>
                 </div>
                 <div className="media contact-info">
