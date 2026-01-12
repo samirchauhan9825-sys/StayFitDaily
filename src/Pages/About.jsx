@@ -29,7 +29,7 @@ function About() {
               <img src="assets/img/gallery/team1.png" />
             </div>
             <div className="cat-cap">
-              <h5><a href="services.html">Body Building</a></h5>
+              <h5><a href="#">Body Building</a></h5>
               <p>You’ll look at graphs and charts in Task One, how to approach the task </p>
             </div>
           </div>
@@ -40,7 +40,7 @@ function About() {
               <img src="assets/img/gallery/team2.png" />
             </div>
             <div className="cat-cap">
-              <h5><a href="services.html">Muscle Gain</a></h5>
+              <h5><a href="#">Muscle Gain</a></h5>
               <p>You’ll look at graphs and charts in Task One, how to approach the task </p>
             </div>
           </div>
@@ -51,7 +51,7 @@ function About() {
               <img src="assets/img/gallery/team3.png"  />
             </div>
             <div className="cat-cap">
-              <h5><a href="services.html">Weight Loss</a></h5>
+              <h5><a href="#">Weight Loss</a></h5>
               <p>You’ll look at graphs and charts in Task One, how to approach the task </p>
             </div>
           </div>
@@ -79,7 +79,7 @@ function About() {
               check academic essays.</p>
             <p className="mb-40">Task One, how to approach the task and the language needed for a successful answer. You’ll 
               examine Task Two questions and learn how to plan, write and check academic essays.</p>
-            <a href="courses.html" className="border-btn">My Courses</a>
+            <a href="#" className="border-btn">My Courses</a>
           </div>
         </div>
       </div>
@@ -106,7 +106,7 @@ function About() {
               </div>
               <div className="blog-cap">
                 <span>Gym &amp; Fitness</span>
-                <h3><a href="blog_details.html">Your Antibiotic One Day To 10 Day Options</a></h3>
+                <h3><a href="#">Your Antibiotic One Day To 10 Day Options</a></h3>
               </div>
             </div>
           </div>
@@ -119,7 +119,7 @@ function About() {
               </div>
               <div className="blog-cap">
                 <span>Gym &amp; Fitness</span>
-                <h3><a href="blog_details.html">Your Antibiotic One Day To 10 Day Options</a></h3>
+                <h3><a href="#">Your Antibiotic One Day To 10 Day Options</a></h3>
               </div>
             </div>
           </div>
@@ -133,54 +133,13 @@ function About() {
     <div className="container">
       <div className="video-wrap position-relative">
         <div className="video-icon">
-          <a className="popup-video btn-icon" href="https://www.youtube.com/watch?v=up68UAfH0d0"><i className="fas fa-play" /></a>
+          <a className="popup-video btn-icon" href="https://www.youtube.com/watch?v=up68UAfH0d0" target='_blank'><i className="fas fa-play" /></a>
         </div>
       </div>
     </div>
   </div>
   {/* video_end */}
-  {/* ? services-area */}
-  <section className="services-area">
-    <div className="container">
-      <div className="row justify-content-between">
-        <div className="col-xl-4 col-lg-4 col-md-6 col-sm-8">
-          <div className="single-services mb-40 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">
-            <div className="features-icon">
-              <img src="assets/img/icon/icon1.svg" />
-            </div>
-            <div className="features-caption">
-              <h3>Location</h3>
-              <p>You’ll look at graphs and charts in Task One, how to approach </p>
-            </div>
-          </div>
-        </div>
-        <div className="col-xl-3 col-lg-4 col-md-6 col-sm-8">
-          <div className="single-services mb-40 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
-            <div className="features-icon">
-              <img src="assets/img/icon/icon2.svg" />
-            </div>
-            <div className="features-caption">
-              <h3>Phone</h3>
-              <p>(90) 277 278 2566</p>
-              <p>  (78) 267 256 2578</p>
-            </div>
-          </div>
-        </div>
-        <div className="col-xl-3 col-lg-4 col-md-6 col-sm-8">
-          <div className="single-services mb-40 wow fadeInUp" data-wow-duration="2s" data-wow-delay=".4s">
-            <div className="features-icon">
-              <img src="assets/img/icon/icon3.svg" />
-            </div>
-            <div className="features-caption">
-              <h3>Email</h3>
-              <p>jacson767@gmail.com</p>
-              <p>contact56@zacsion.com</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
+
 </main>
 
     </>
