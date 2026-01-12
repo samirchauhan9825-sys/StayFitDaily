@@ -7896,3 +7896,11 @@ del {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+@media (max-width: 767px) {
+  .header-bottom,
+  .main-header,
+  .header-area {
+    background-color: #850000 !important;
+  }
+}
